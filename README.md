@@ -31,11 +31,11 @@ Brevet under ser jeg for meg (som et utkast til) å sende til hondaklubbene i sv
 ---
 
 #### Invitation to a case study for Club Honda Scandinavia
+*This is just a draft of what we are thinking. In no way should this be considered final, this is intended only to give a starting foundation for discussions*
 
 The last few years there has been a trend for communities to dwindle and die because of lack of activity. We've seen a number of Norwegian car clubs shut down, and we do not want the Honda entusiast clubs to suffer the same fate. As we too see the effects of decreasing activity we invite the Honda clubs of scandinavia to a case study where we explore our possibilities.
 
 ##### Our vision
-This is just a draft of what we are thinking. In no way should this be considered final, this is intended only to give a starting foundation for discussions
 
 The Honda clubs of Denmark, Iceland, Norway and Sweden merge to form "Club Honda Scandinavia".
 
