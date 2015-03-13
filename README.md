@@ -75,3 +75,11 @@ Membership: $50
 Paypal fee: $1.75
 Server cost: $1
 Local club gets $48.25
+
+###### What's next?
+Please get back to us as soon as possible, wa want to know if this is interesting or not.
+
+Let's work together to form the best car community possible!
+
+Regards
+Club Honda Norway
