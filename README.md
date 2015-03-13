@@ -1,5 +1,4 @@
 # CHN Future
-===========
 En samling tanker og ideer for videre drift av Club Honda Norge. Merk at dette bare er mine meninger, de kan være riv ruskende gale.
 
 ---
