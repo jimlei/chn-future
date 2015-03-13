@@ -1,8 +1,6 @@
 # CHN Future
 En samling tanker og ideer for videre drift av Club Honda Norge. Merk at dette bare er mine meninger, de kan være riv ruskende gale.
 
----
-
 ## Hvorfor være medlem?
 Et problem har vært å få satt opp et tilbud som hvermansen finner interessant. 
 
