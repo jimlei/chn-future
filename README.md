@@ -8,12 +8,8 @@ Tidligere har CHN blitt drevet mye "av entusiaster - for entusiaster", men sannh
 
 CHN trenger en klar og tydelig liste på hvorfor "Ola Nordmann" på 20, 30 eller 60, skal melde seg inn i klubben. Rabattavtaler er selvfølgelig ett moment, men andre ting kan jo også frontes. Eksempelvis blader abbonnement man på tjenester kan legge ved, kunnskapsportal på nett, gratis kjøp og salg med andre Hondaeiere, treffkvelder med mulighet for skruhjelp, fotokurs, bilpleiekurs, etc etc.
 
----
-
 ## Medlemshåndtering
 Her ville jeg bare gitt opp å forsøke å drive selv og fått på plass en profesjonell løsning så snart som mulig. Er det mulig å sette sånt ut av Norge? En fordel her, om man skal ha en nettportal, er om medlemsløsningen støtter å "prate med" nettportalløsningen.
-
----
 
 ## Tilværelsen på nett & Facebook
 Facebooksiden bør bygges om til en vanlig firmaside, der det er mulig å kommentere "på siden". Hovedinnholdet bør være offisielle nyheter fra CHN.
@@ -29,12 +25,11 @@ Bør settes opp på samme lest som over. En moderne enkeltside med svært bra bi
 ### club-honda.org/forum
 Utgår.
 
----
-
 ## Samarbeide
 Brevet under ser jeg for meg (som et utkast til) å sende til hondaklubbene i sverige, danmark og island.
 
 ---
+
 #### Invitation to a case study for Club Honda Scandinavia
 
 The last few years there has been a trend for communities to dwindle and die because of lack of activity. We've seen a number of Norwegian car clubs shut down, and we do not want the Honda entusiast clubs to suffer the same fate. As we too see the effects of decreasing activity we invite the Honda clubs of scandinavia to a case study where we explore our possibilities.
